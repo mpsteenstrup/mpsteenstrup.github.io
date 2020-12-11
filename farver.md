@@ -44,5 +44,6 @@ Man har udviklet mange andre måder at beskrive farver på end RGB. En er HSL so
  * Eksperimenter med farverne på, [html_colors_hsl](https://www.w3schools.com/html/html_colors_hsl.asp) ved hjælp af skyderne.
  * Prøv et eksempel hvor du redigere i html koden.
 
-
-[additive og substractive farver](http://mpsteenstrup.dk/farveblanding_js/farveblanding_js.html)
+## Links
+* [additive og substractive farver](http://mpsteenstrup.dk/farveblanding_js/farveblanding_js.html)
+*[temavælger](https://coolors.co/d62839-ba324f-175676-4ba3c3-cce6f4)
