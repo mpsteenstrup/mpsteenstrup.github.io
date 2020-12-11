@@ -9,7 +9,7 @@ Verden er i farver, hvilket man godt kan glemme en decemberdag i Danmark. Farver
 * Brug figuren Color Schemes til at beskrive de forskellige farve temaer.
 * Hvad er Complementary Color Scheme og hvordan gør man det mindre simpelt at se på?
 
-Adobe har udviklet et website hvor man kan lege med farver og farvetemaer, [Adobe color-wheel](https://color.adobe.com/create/color-wheel).
+Adobe har udviklet et website hvor man kan lege med farver og farvetemaer, [Adobe color-wheel](https://color.adobe.com/create/color-wheel). Bemærk at Adobe bruger HSB som ikke kan bruges direkte i html, hvor man bruger HSL. Hvis I bruger RGB så er de kompertible.
 
 ### Øvelse
 * Prøv jer frem med de forskellige farvetemaer how Adobe, start simpelt og få en fornemmelse af hvad siden viser.
@@ -27,9 +27,6 @@ Undersøg følgende websider for deres farvevalg, hvad har de valgt og hvordan v
 * Find et par stykker selv.
 
 
-## Fraver på jeres webside
-I skal vælge et farvetema for jeres egen webside. Overvej hvem I vil kommunikerer til og hvad I gerne vil signalerer og vælg et farvetema som I kan bruge i implementeringen.
-
 ## RGB farver
 Vores computerskærme er bygget op med pixels som kan udsende lys med farverne, rød, grøn og blå. Det kaldes RGB farver og svarer til de tre receptorer i øjet, tappene, som netop også kan se rødt, grønt og blåt lys. Hvis vi vil sætte baggrundsfarvent til blå skal vi i html skrive,
 ```background: rgb(0,0,255)```
@@ -43,6 +40,11 @@ Man har udviklet mange andre måder at beskrive farver på end RGB. En er HSL so
  ### Øvelse
  * Eksperimenter med farverne på, [html_colors_hsl](https://www.w3schools.com/html/html_colors_hsl.asp) ved hjælp af skyderne.
  * Prøv et eksempel hvor du redigere i html koden.
+
+ ## Fraver på jeres webside
+ I skal vælge et farvetema for jeres egen webside. Overvej hvem I vil kommunikerer til og hvad I gerne vil signalerer og vælg et farvetema som I kan bruge i implementeringen.
+
+
 
 ## Links
 * [additive og substractive farver](http://mpsteenstrup.dk/farveblanding_js/farveblanding_js.html)
