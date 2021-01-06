@@ -7,13 +7,6 @@
 * [Webteknologier 3, projekt og CSS](/filer/Webteknologier3.pdf)
 * [Webteknologier 4, design](/filer/Webteknologier4.pdf)
 
-
-
-
-
-
-
-
 # Guide til github til hosting af websider
 
 Github er et online sted hvor udviklere lægger programmer,data og meget mere. Det er et versionsstyringsværktøj lavet til at arbejde på forskellige versione af samme software. Vi kommer ikke til at bruge denne feature men kun bruge

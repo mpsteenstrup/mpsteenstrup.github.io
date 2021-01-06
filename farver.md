@@ -41,6 +41,14 @@ Man har udviklet mange andre måder at beskrive farver på end RGB. En er HSL so
  * Eksperimenter med farverne på, [html_colors_hsl](https://www.w3schools.com/html/html_colors_hsl.asp) ved hjælp af skyderne.
  * Prøv et eksempel hvor du redigere i html koden.
 
+### Øvelse, farver og CSS
+Det er en god ide at sætte farvetemaet øverst på siden eller i en ekstern fil, så har man kun ét sted man skal holde styr på. Hvis man ændrer i ```<style>``` kan man det. I skal arbejde med siden, [farverCSS1.html](/introduktion/farverCSS1.html).
+* Gem siden lokalt og åben den i browseren.
+* Hvilke problemer er der?
+* Se i koden og find det i ```<style></style>``` taggene.
+* Vælg et farvetema og implementer det.
+* Tilføj en farve til underoverskriften ```h1```.
+
  ## Fraver på jeres webside
  I skal vælge et farvetema for jeres egen webside. Overvej hvem I vil kommunikerer til og hvad I gerne vil signalerer og vælg et farvetema som I kan bruge i implementeringen.
 
