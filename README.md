@@ -2,8 +2,10 @@
 
 
 ## Præsentationer
-* [Webteknologier 1](/filer/Webteknologier1.pdf)
-* [Webteknologier 2](/filer/Webteknologier2.pdf)
+* [Webteknologier 1, hvad er internettet](/filer/Webteknologier1.pdf)
+* [Webteknologier 2, HTML introduktion](/filer/Webteknologier2.pdf)
+* [Webteknologier 3, projekt og CSS](/filer/Webteknologier3.pdf)
+* [Webteknologier 4, design](/filer/Webteknologier4.pdf)
 
 
 
