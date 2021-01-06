@@ -7,7 +7,12 @@
 * [Webteknologier 3, projekt og CSS](/filer/Webteknologier3.pdf)
 * [Webteknologier 4, design](/filer/Webteknologier4.pdf)
 
-# Programmet online på Github
+# Github til hosting af websider
+
+Github er et online sted hvor udviklere lægger programmer,data og meget mere. Det er et versionsstyringsværktøj lavet til at arbejde på forskellige versione af samme software. Vi kommer ikke til at bruge denne feature men kun bruge
+det til at have vores websider liggenden.
+Det anbefales generelt ikke at bruge specialtegn og æøå i filnavne.
+
 
 I kan bruge Github til at hoste jeres webside. Startsiden hedder ```index.html``` og skal placeres i roden af jeres github repository. I kan linke til undersider ved relative referencer, eks ```<a href="side2.html"> Link til side 2 </a>```.
 
@@ -20,13 +25,5 @@ Denne siden kan ses på
 Indsæt selv brugernavn og repository
 ```https://username.github.io/repository/index.html```
 
-
-
-
-# Guide til github til hosting af websider
-
-Github er et online sted hvor udviklere lægger programmer,data og meget mere. Det er et versionsstyringsværktøj lavet til at arbejde på forskellige versione af samme software. Vi kommer ikke til at bruge denne feature men kun bruge
-det til at have vores websider liggenden.
-Det anbefales generelt ikke at bruge specialtegn og æøå i filnavne.
 
 Det kan godt kræve lidt tålmodighed at arbejde direkte i editoren på Github, da siden ikke altid opdatere så hurtigt. Man kan evt prøve ```shift command R``` for hard reload af den side I vil se.
