@@ -12,6 +12,7 @@ I skal kunne anvende
 * Indsætte billeder og video.
 * <head> til at specificere æøå og lignende.
 * <style> til at ændre farve, font.
+* <div> til design og layout.
 
 ### Layout og design
 I skal kunne redegøre for
