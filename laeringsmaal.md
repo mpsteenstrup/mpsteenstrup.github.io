@@ -26,3 +26,6 @@ I skal kunne redegøre for
 I skal kunne redegøre for
 * Målgruppe og persona og hvilke valg I har truffet på baggrund af det arbejde.
 * Brugertest og hvad I har fået ud af den.
+
+### Github og webhosting
+I skal kunne klare opsætningen af Github til hosting af webside. 
