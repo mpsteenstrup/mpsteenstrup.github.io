@@ -18,3 +18,8 @@ I skal kunne redegøre for
 * Valg af farver.
 * Valg af layout.
 * I skal kunne implementere det ved at redigere i skabeloner.
+
+### Interaktionsdesign
+I skal kunne redegøre for
+* Målgruppe og persona og hvilke valg I har truffet på baggrund af det arbejde.
+* Brugertest og hvad I har fået ud af den.
