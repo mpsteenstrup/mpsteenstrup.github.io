@@ -1,4 +1,6 @@
 # Læringsmål
+Læringsmålene skal nås gennem gennemgang af teori og selvstædigt arbejde med webside projekt.
+
 
 ### Internettets opbygning.
 I skal kunne redegøre for
