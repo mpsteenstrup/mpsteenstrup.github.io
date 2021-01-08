@@ -10,7 +10,7 @@ I skal kunne redegøre for
 ### Basal html programmering.
 I skal kunne anvende
 * Tags <> </>
-* Overskrifter, paragraffer og links.
+* Overskrifter, paragraffer, links og tabeller.
 * Indsætte billeder og video.
 * <head> til at specificere æøå og lignende.
 * <style> til at ændre farve, font.
@@ -28,4 +28,4 @@ I skal kunne redegøre for
 * Brugertest og hvad I har fået ud af den.
 
 ### Github og webhosting
-I skal kunne klare opsætningen af Github til hosting af webside. 
+I skal kunne klare opsætningen af Github til hosting af webside.
