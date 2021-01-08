@@ -1,9 +1,19 @@
 # Webteknologier
 
-## Infholdsfortegnelse
+## Indholdsfortegnelse
 * [Præsentationer](##Præsentationer)
+* [Læringsmål for undervisningen](laeringsmaal.md)
+* [index.html, et eksempel på basal html kodning som opfylder læringsmålene](https://mpsteenstrup.github.io/index.html)
 * [Eksempler til introduktion til html, side1.htlm...](/introduktion)
+* [Opbygning af website](#-opbygning-af-website)
 * [Layout](#css-og-webside-layout)
+* [Farver](farver.md)
+* [Github til hosting af websider](#github-til-hosting-af-websider)
+
+
+
+
+
 ## Præsentationer
 * [Webteknologier 1, hvad er internettet](/filer/Webteknologier1.pdf)
 * [Webteknologier 2, HTML introduktion](/filer/Webteknologier2.pdf)
