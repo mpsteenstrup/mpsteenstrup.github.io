@@ -63,4 +63,4 @@ I eksemplet [class_capitals](https://www.w3schools.com/html/tryit.asp?filename=t
 W3schools har faktisk skrevet ret godt, så her er linket.
 [https://www.w3schools.com/css/css_website_layout.asp](https://www.w3schools.com/css/css_website_layout.asp)
 
-Filen [responsiveWebdesign](introduktion/responsivWebdesign.html) er en kommenteret version som skalerer fint med forskellige skærmstørrelser. Den er ret fin.
+Filen [responsiveWebdesign](/introduktion/responsivWebdesign.html) er en kommenteret version som skalerer fint med forskellige skærmstørrelser. Den er ret fin.
