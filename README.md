@@ -1,6 +1,8 @@
 # Webteknologier
 
-
+## Infholdsfortegnelse
+* [Præsentationer](##Præsentationer)
+* [Layout](#css-og-webside-layout)
 ## Præsentationer
 * [Webteknologier 1, hvad er internettet](/filer/Webteknologier1.pdf)
 * [Webteknologier 2, HTML introduktion](/filer/Webteknologier2.pdf)
@@ -46,7 +48,7 @@ Her er en template til et layout med en menu i toppen, [layoutTopbar.html](/intr
 
 I eksemplet [class_capitals](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_classes_capitals) fra w3schools.com, definere vi designet i ```<style>``` med ```.city { }``` og kalder designet med ```<div class="city">```.
 
-## CSS og websde layout
+## CSS og webside layout
 W3schools har faktisk skrevet ret godt, så her er linket.
 [https://www.w3schools.com/css/css_website_layout.asp](https://www.w3schools.com/css/css_website_layout.asp)
 
