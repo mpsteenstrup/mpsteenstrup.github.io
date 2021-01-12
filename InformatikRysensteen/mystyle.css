@@ -72,18 +72,6 @@ body {
   margin-top: 20px;
 }
 
-.card a {
-  background-color: #aaa;
-  width: 100%;
-  padding: 20px;
-  text-decoration: none; /* fjerner understregen på link*/
-}
-
-/* Change color on hover */
-.card a:hover {
-  background-color: #ddd;
-  color: black;
-}
 
 /* Clear floats after the columns*/
 /* danner en klasse til begge kolonner */
