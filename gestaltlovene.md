@@ -1,7 +1,7 @@
 # Gestaltlovene
 Gestaltlovene beskriver hvordan den menneskelige hjerne opfatter objekter. Det har især betydning når man laver webdesign eller andet grafisk arbejde.
 
-##Gestaltlovene
+## Gestaltlovene
 De fem gestaltlove er;
 * Nærhed
 * Lighed
