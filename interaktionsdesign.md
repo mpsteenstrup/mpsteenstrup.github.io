@@ -12,7 +12,15 @@ Der er mange måder at lave godt design og ingen strikse love. For at hjælpe de
 Steve Krug skrev bogen **Don't make me thin** om human-computer interaktion.
 
 ### Øvelse
-* Hvorfor søren er det en god designstrategi at brugren ikke skal tænke sig om?
+* Hvorfor søren er det en god designstrategi at brugeren ikke skal tænke sig om?
+
+En af måderne man vi kan undgå at tænke er, hvis de side vi kommer ind på ligner hinanden.
+
+### Øvelse
+* Undersøg nogle hjemmesider fra etablerede virksomheder eller organisationen.
+* Er der et gennemgående træk i hvordan de er organiseret?
+* Kom med tommelfingerregler (heurestik) for hvor man placere, *søgefunktionen, menuen, kontaktinformation*.
+
 
 Don Norman kom med sin ** Design of everyday things ** med 6 designprincipper;
 * Visibility, synlighed, det man kan se bruger man.
