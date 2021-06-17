@@ -9,6 +9,7 @@
 * [Layout](#css-og-webside-layout)
 * [Farver](farver.md)
 * [Gestaltlovene](gestaltlovene.md)
+* [Interaktionsdesign](Interaktionsdesign.md)
 * [Github til hosting af websider](#github-til-hosting-af-websider)
 
 
@@ -42,14 +43,6 @@ Indsæt selv brugernavn og repository
 
 Det kan godt kræve lidt tålmodighed at arbejde direkte i editoren på Github, da siden ikke altid opdatere så hurtigt. Man kan evt prøve ```shift command R``` for hard reload af den side I vil se.
 
-
-# Opbygning af website
-Der er mange måder at opbygge en webside på, men de fleste har en menubar i toppen og her kommer et af designprincipperne i spil.
-
-## First law of usability
-Steve Krug points out that his first law of usability is: "Don't make users thin" [ref](https://medium.com/@aniket.ambekar/lessons-learned-from-the-book-dont-make-me-think-by-steve-krug-8eddc339d213#:~:text=Steve%20Krug%20points%20out%20that,after%20looking%20at%20the%20screen.).
-
-Hvis brugerne bare skal gøre som de plejer virker det!
 
 ### Layout med topbar
 Her er en template til et layout med en menu i toppen, [layoutTopbar.html](/introduktion/layoutTopbar.html)

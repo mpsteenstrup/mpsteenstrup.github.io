@@ -33,4 +33,4 @@ Don Norman kom med sin ** Design of everyday things ** med 6 designprincipper;
 Principperne er beskrevet af Sachin Rekhi, [don-normans-principles-of-interaction-design](https://medium.com/@sachinrekhi/don-normans-principles-of-interaction-design-51025a2c0f33).
 
 ### Øvelse
-Gruppeøvelse hvor hver gruppe skal fremlægge et af Normans principper. Hver gruppe skal bruge Sachin Rekhins hjemmeside til at lave en præsentation af ét af principperne. Præsentationen samles her, [præsentation](https://docs.google.com/presentation/d/1StkO8ya42OsNxh29v4Xsq89OPHtUr1SZgylMc9vltvk/edit#slide=id.p).
+Gruppeøvelse hvor hver gruppe skal fremlægge et af Normans principper. Hver gruppe skal bruge Sachin Rekhins hjemmeside til at lave en præsentation af ét af principperne. Præsentationen samles her, [Normans designprincipper præsentation](https://docs.google.com/presentation/d/1StkO8ya42OsNxh29v4Xsq89OPHtUr1SZgylMc9vltvk/edit#slide=id.p).
