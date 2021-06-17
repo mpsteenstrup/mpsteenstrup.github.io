@@ -9,7 +9,7 @@
 * [Layout](#css-og-webside-layout)
 * [Farver](farver.md)
 * [Gestaltlovene](gestaltlovene.md)
-* [Interaktionsdesign](Interaktionsdesign.md)
+* [Interaktionsdesign](interaktionsdesign.md)
 * [Github til hosting af websider](#github-til-hosting-af-websider)
 
 
