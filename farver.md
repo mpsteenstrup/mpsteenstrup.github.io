@@ -58,10 +58,8 @@ Selv om det ikke er anbefalet så skal I nu arbejde med én fil hvor styling og 
 * Vælg et farvetema og implementer det.
 * Tilføj en farve til underoverskriften ```h1```.
 
- ## Fraver på jeres webside
+ ## Farver på jeres webside
  I skal vælge et farvetema for jeres egen webside. Overvej hvem I vil kommunikerer til og hvad I gerne vil signalerer og vælg et farvetema som I kan bruge i implementeringen.
-
-
 
 ## Links
 * [additive og substractive farver](http://mpsteenstrup.dk/farveblanding_js/farveblanding_js.html)
