@@ -42,7 +42,16 @@ Man har udviklet mange andre måder at beskrive farver på end RGB. En er HSL so
  * Prøv et eksempel hvor du redigere i html koden.
 
 ### Øvelse, farver og CSS
-Det er en god ide at sætte farvetemaet øverst på siden eller i en ekstern fil, så har man kun ét sted man skal holde styr på. Hvis man ændrer i ```<style>``` kan man det. I skal arbejde med siden, [farverCSS1.html](/introduktion/farverCSS1.html).
+Det er bedst at holde styling delen til en separat fil, eks. ```styles.css```. På den måde bliver det mere overskueligt hvor styling er og hvor indholdet er. Hvis man har flere undersider kan man henvise til samme ```.css``` fil og der er kun ét sted man skal ændre for at hele hjemmesiden ændrer sig.
+
+Hvis ```.css```filen ligger i samme mappe som ```.html``` filerne skal man henvise til filen i headeres,
+```
+<head>
+<link rel="stylesheet" href="styles.css">
+</head>
+```
+
+Selv om det ikke er anbefalet så skal I nu arbejde med én fil hvor styling og indhold ligger sammen. I skal arbejde med siden, [farverCSS1.html](/introduktion/farverCSS1.html).
 * Gem siden lokalt og åben den i browseren.
 * Hvilke problemer er der?
 * Se i koden og find det i ```<style></style>``` taggene.
