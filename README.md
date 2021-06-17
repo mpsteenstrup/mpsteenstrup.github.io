@@ -8,6 +8,7 @@
 * [Opbygning af website](#-opbygning-af-website)
 * [Layout](#css-og-webside-layout)
 * [Farver](farver.md)
+* [Gestaltlovene](gestaltlovene.md)
 * [Github til hosting af websider](#github-til-hosting-af-websider)
 
 
