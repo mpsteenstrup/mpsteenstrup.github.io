@@ -11,10 +11,7 @@
 * [Gestaltlovene](gestaltlovene.md)
 * [Interaktionsdesign](interaktionsdesign.md)
 * [Github til hosting af websider](#github-til-hosting-af-websider)
-
-
-
-
+* [AstroPi](https://github.com/mpsteenstrup/AstroPi2020/tree/master/informatik2020)
 
 ## Præsentationer
 * [Webteknologier 1, hvad er internettet](/filer/Webteknologier1.pdf)
